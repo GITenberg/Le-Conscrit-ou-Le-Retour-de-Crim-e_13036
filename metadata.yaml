@@ -1,5 +1,8 @@
 _repo: Le-Conscrit-ou-Le-Retour-de-Crim-e_13036
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Doin, Ernest
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '4792'
     url: http://www.gutenberg.org/2009/agents/4792
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13036#Le-Conscrit-ou-Le-Retour-de-Crim-e
 gutenberg_bookshelf: FR Théâtre
 gutenberg_issued: '2004-07-28'
 gutenberg_type: Text
